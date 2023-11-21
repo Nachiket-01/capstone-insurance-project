@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MySuite">
+    <test name="MyTest">
+        <classes>
+            <class name="com.project.staragile.insureme.InsureMeApplicationTests"/>
+            <!-- Add more class elements if you have additional test classes -->
+        </classes>
+    </test>
+</suite>
